@@ -2,6 +2,18 @@
 
 Quick setup instructions for running the project locally.
 
+**List Issues**
+<img width="1254" height="640" alt="Screenshot 2025-12-15 at 6 27 52 PM" src="https://github.com/user-attachments/assets/00a1d3fe-117e-4ae0-a89e-104b9f6ada48" />
+
+**Create Issue**
+<img width="1256" height="749" alt="Screenshot 2025-12-15 at 6 39 08 PM" src="https://github.com/user-attachments/assets/3435e25e-798b-40e0-958a-7f24a20c5fd9" />
+
+**Edit Issue**
+<img width="1253" height="754" alt="Screenshot 2025-12-15 at 6 39 18 PM" src="https://github.com/user-attachments/assets/29b75a1f-a5e9-49da-969e-6724b7cfa5da" />
+
+**Delete Issue**
+<img width="1253" height="750" alt="Screenshot 2025-12-15 at 6 39 28 PM" src="https://github.com/user-attachments/assets/d0ac049b-b832-4626-b69a-c3f858724c9b" />
+
 ## Database
 
 - Start a PostgreSQL database (create a database named `joby` or update the URL in `backend/database.py`).
