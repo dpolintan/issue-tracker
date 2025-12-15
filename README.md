@@ -6,12 +6,6 @@ Quick setup instructions for running the project locally.
 
 - Start a PostgreSQL database (create a database named `joby` or update the URL in `backend/database.py`).
 
-Example using Docker:
-
-```bash
-docker run --name issue-tracker-db -e POSTGRES_PASSWORD=password -e POSTGRES_USER=postgres -e POSTGRES_DB=joby -p 5432:5432 -d postgres:15
-```
-
 ## Backend
 
 ```bash
