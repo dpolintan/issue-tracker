@@ -33,8 +33,6 @@ The frontend expects the backend API at `http://127.0.0.1:8000` by default. Adju
 
 - **Backend ORM:** Using SQLAlchemy for the data model and schema management to avoid hand-writing error-prone SQL statements and to leverage SQLAlchemy's conveniences (declarative models, session management, optional Alembic migrations).
 - **DB Driver:** The app requires a PostgreSQL driver compatible with SQLAlchemy (e.g., `psycopg2-binary`). Ensure the driver is installed in the backend virtualenv.
-
-**Frontend choices**
 - **React Query:** Used for data fetching and cache management to handle loading and error states cleanly.
 - **Modals over routes:** The UI uses modal dialogs for create/edit flows instead of separate routes/pages to make navigation simpler; this can be migrated to dedicated pages if the UX specification changes.
 
